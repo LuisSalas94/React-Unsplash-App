@@ -51,6 +51,8 @@ p {
 
 .search-form {
 	display: flex;
+	border: 1px solid #333;
+	border-radius: 10px;
 }
 
 .form-input {
