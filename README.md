@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Unsplash React App
- This is a Unsplash React App done step-by-step. Using useState, useReducer & Fetch API This app is part of #100DaysOfCode challenge. 
+ This is a Unsplash React App done step-by-step. Using useState, useEffect & Fetch API This app is part of #100DaysOfCode challenge. 
    
 ## Built With
 
