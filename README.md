@@ -14,7 +14,7 @@
 
 First clone this repository.
 ```bash
-$ git clone https://github.com/LuisSalas94/React-Crypto-App
+$ git clone https://github.com/LuisSalas94/React-Unsplash-App
 ```
 
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
